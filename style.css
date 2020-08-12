@@ -1,0 +1,12 @@
+@charset "utf-8"
+
+body{
+	margin : 0px;
+	padding: 0px;
+	background-color: #0b0f12;
+	font-family: sans-serif;
+}
+
+.nav-container{
+	position: absolute;
+}
